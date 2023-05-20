@@ -110,7 +110,8 @@ button{
     margin-left: 150px;
 }
 .page2 .imgleft .sb{
-    width: 304px;
+    width: 357px;
+    height: 190px;
     background-image: url(images/1-1.png);
     background-repeat: no-repeat;
     padding-left: 37px;
@@ -126,7 +127,7 @@ button{
     right: 0;
 }
 .page2 .imgright .sb{
-    width: 315px;
+    width: 330px;
     height: 81px;
     background-image: url(images/1-2.png);
     background-repeat: no-repeat;
@@ -158,8 +159,8 @@ button{
     right: 0px;
     top: calc(50% - 50px);
     transform: translateY(-50%);
-    width: 284px;
-    height: 115px;
+    width: 321px;
+    height: 141px;
     background-image: url(images/2-1.png);
     background-repeat: no-repeat;
     padding-left: 32px;
@@ -198,8 +199,8 @@ button{
 .page4 .imgright .sb{
     background-image: url(images/4-1.png);
     background-repeat: no-repeat;
-    width: 235px;
-    height: 77px;
+    width: 302px;
+    height: 102px;
     padding-left: 8px;
     padding-top: 15px;
     margin-bottom: 25px;
@@ -226,8 +227,8 @@ button{
 .page5 .imgtop .sb{
     background-image: url(images/5-1.png);
     background-repeat: no-repeat;
-    width: 214px;
-    height: 97px;
+    width: 252px;
+    height: 102px;
     padding-left: 35px;
     padding-top: 12px;
     margin-top: 140px;
