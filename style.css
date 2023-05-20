@@ -200,8 +200,8 @@ button{
     background-repeat: no-repeat;
     width: 302px;
     height: 102px;
-    padding-left: 16px;
-    padding-top: 3px;
+    padding-left: 8px;
+    padding-top: 5px;
     margin-bottom: 25px;
 }
 
@@ -260,8 +260,8 @@ button{
     background-repeat: no-repeat;
     width: 263px;
     height: 106px;
-    padding-left: 36px;
-    padding-top: 18px;
+    padding-left: 34px;
+    padding-top: 15px;
 }
 .page6 .wrap{
     display: flex;
