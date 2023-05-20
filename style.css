@@ -188,7 +188,6 @@ button{
     border-radius: 30px;
     overflow: hidden;
     box-shadow: 2px 10px 10px #ccc;
-
 }
 .page4 .imgright{
     position: absolute;
@@ -201,8 +200,8 @@ button{
     background-repeat: no-repeat;
     width: 302px;
     height: 102px;
-    padding-left: 8px;
-    padding-top: 15px;
+    padding-left: 16px;
+    padding-top: 3px;
     margin-bottom: 25px;
 }
 
@@ -261,8 +260,8 @@ button{
     background-repeat: no-repeat;
     width: 263px;
     height: 106px;
-    padding-left: 20px;
-    padding-top: 15px;
+    padding-left: 36px;
+    padding-top: 18px;
 }
 .page6 .wrap{
     display: flex;
